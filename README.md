@@ -30,5 +30,17 @@ This repository provides an unsupervised learning framework for detecting blood-
 pip install -r requirements.txt
 ```
 
-## How to Run
-Each Jupyter Notebook file runs sequentially to complete the full workflow.
+## Data Requirements
+The dataset should be organized with each **patient folder** inside a root data directory. Each patient folder must contain the following files:
+
+- **`tumor_mask.nii.gz`** → Tumor mask (Required for patients, **not needed for healthy volunteers**)
+- **`dce_mask.nii.gz`** → Brain mask (e.g., obtained using BET or a similar method)
+- **`dce.nii.gz`** → Dynamic contrast-enhanced (DCE) MRI data
+
+### Notes:
+- If **healthy volunteer data** is used, **`tumor_mask.nii.gz` is not required**.
+- Ensure that all files are in **NIfTI format (`.nii.gz`)**.
+
+## 🚀 How to Run
+All processing steps are executed **within a single Jupyter Notebook**.  
+Simply open the notebook and run each cell **sequentially**.
