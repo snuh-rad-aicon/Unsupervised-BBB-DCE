@@ -39,7 +39,6 @@ The dataset should be organized with each **patient folder** inside a root data 
 
 ### Notes:
 - If **healthy volunteer data** is used, **`tumor_mask.nii.gz` is not required**.
-- Ensure that all files are in **NIfTI format (`.nii.gz`)**.
 
 ## 🚀 How to Run
 All processing steps are executed **within a single Jupyter Notebook**.  
