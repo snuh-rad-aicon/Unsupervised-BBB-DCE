@@ -18,9 +18,9 @@ This repository provides an unsupervised learning framework for detecting blood-
 
 ![Fig2](Figure4.png)
 
-**Table: Comparison of the robustness of RLS and *K\*trans* to subsampling**
+**Table: Comparison of the robustness of RLS and *_Ktrans_* to subsampling**
 
-|            | 𝜅² (RLS) | 𝜅² (*K\*trans*) | *P value* | PSNR (mean ± SD dB, RLS) | PSNR (mean ± SD dB, *K\*trans*) | *P value* | SSIM (mean ± SD, RLS) | SSIM (mean ± SD, *K\*trans*) | *P value* |
+|            | _r_² (RLS) | _r_² (*Ktrans*) | *P value* | PSNR (mean ± SD dB, RLS) | PSNR (mean ± SD dB, *K\*trans*) | *P value* | SSIM (mean ± SD, RLS) | SSIM (mean ± SD, *K\*trans*) | *P value* |
 |------------|---------|-------------|----------|----------------------|----------------------|----------|------------------|------------------|----------|
 | **D_under**  | 0.90    | 0.90        | .89      | 36.19 ± 1.79         | 32.69 ± 2.96         | < .001   | 0.93 ± 0.02      | 0.92 ± 0.03      | .01      |
 | **D_trunc**  | 0.89    | 0.72        | < .001   | 33.09 ± 1.91         | 28.94 ± 4.16         | < .001   | 0.92 ± 0.02      | 0.87 ± 0.05      | < .001   |
