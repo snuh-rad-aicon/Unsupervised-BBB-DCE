@@ -6,4 +6,4 @@
   <img src="Figure 2.png" alt="Figure 2" width="100%">
 </p>
 <br>
-<p align="center"><b>Representative RLS, RVS, Ktrans maps</b> </p>
+### Representative RLS, RVS, Ktrans maps
