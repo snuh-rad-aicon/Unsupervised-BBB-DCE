@@ -4,7 +4,7 @@ The official repository for "Unsupervised Deep Learning for Model-Free Blood‒B
 
 ## Introduction
 
-This repository provides an unsupervised learning framework for detecting blood-brain barrier leakage without relying on pharmacokinetic models or arterial input function.
+This unsupervised learning framework can detect blood-brain barrier leakage without pharmacokinetic models and arterial input function and distinguished between different tissue types within tumors, offering potential to improve diffuse glioma diagnosis.
 
 ![Fig1](Figure2.png)
 **Figure: Representative RLS, RVS, Ktrans maps**
