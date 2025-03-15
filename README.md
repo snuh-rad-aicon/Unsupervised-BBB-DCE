@@ -6,7 +6,7 @@ The official repository for "Unsupervised Deep Learning for Model-Free Blood‒B
 
 This repository provides an unsupervised learning framework for detecting blood-brain barrier leakage without relying on pharmacokinetic models or arterial input function.
 
-Key Points
+**Key Points**
 
 •	An unsupervised autoencoder-based anomaly detection model was developed for blood-brain barrier leakage signal detection on dynamic contrast-enhanced MRI in patients with diffuse glioma; the model also enabled the distinction between tumor signals and vascular signals.
 
@@ -16,7 +16,9 @@ Key Points
 
 ![Fig1](Figure2.png)
 
-Table: Comparison of the robustness of RLS and *K\*trans* to subsampling
+![Fig2](Figure4.png)
+
+**Table: Comparison of the robustness of RLS and *K\*trans* to subsampling**
 
 |            | 𝜅² (RLS) | 𝜅² (*K\*trans*) | *P value* | PSNR (mean ± SD dB, RLS) | PSNR (mean ± SD dB, *K\*trans*) | *P value* | SSIM (mean ± SD, RLS) | SSIM (mean ± SD, *K\*trans*) | *P value* |
 |------------|---------|-------------|----------|----------------------|----------------------|----------|------------------|------------------|----------|
