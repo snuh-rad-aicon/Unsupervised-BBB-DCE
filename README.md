@@ -15,8 +15,11 @@ This repository provides an unsupervised learning framework for detecting blood-
 •	RLS outperformed Ktrans in predicting IDH mutation status in diffuse glioma (AUC = 0.87 [95% CI: 0.83–0.91] vs. 0.81 [95% CI: 0.76–0.85], P = .02).
 
 ![Fig1](Figure2.png)
+**Figure: Representative RLS, RVS, Ktrans maps**
 
 ![Fig2](Figure4.png)
+**Figure: RLS, Ktrans maps from subsampled data**
+
 
 **Table: Comparison of the robustness of RLS and *_Ktrans_* to subsampling**
 
