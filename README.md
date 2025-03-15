@@ -21,9 +21,9 @@ This repository provides an unsupervised learning framework for detecting blood-
 | **D_trunc**  | 0.89    | 0.72        | < .001   | 33.09 ± 1.91         | 28.94 ± 4.16         | < .001   | 0.92 ± 0.02      | 0.87 ± 0.05      | < .001   |
 | **D_hybrid** | 0.92    | 0.91        | .45      | 37.25 ± 2.03         | 32.16 ± 3.90         | < .001   | 0.96 ± 0.02      | 0.93 ± 0.04      | < .001   |
 
-## Files Description
 
-dce.nii
+
+
 
 ## Requirements
 ```sh
