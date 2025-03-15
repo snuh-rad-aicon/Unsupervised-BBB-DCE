@@ -17,7 +17,8 @@ Key Points
 ![Fig1](Figure2.png)
 
 ## Files Description
-이 프로젝트에서 사용되는 주요 파일은 다음과 같습니다.
+
+dce.nii
 
 ## Requirements
 ```sh
