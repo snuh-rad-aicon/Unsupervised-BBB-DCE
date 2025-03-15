@@ -6,6 +6,8 @@
 
 ## Introduction
 
+This repository provides an unsupervised learning framework for detecting blood-brain barrier leakage without relying on pharmacokinetic models or arterial input function. The method also differentiates between various tissue types within tumors, offering potential improvements in diffuse glioma diagnosis.
+
 Key Points
 
 •	An unsupervised autoencoder-based anomaly detection model was developed for blood-brain barrier leakage signal detection on dynamic contrast-enhanced MRI in patients with diffuse glioma; the model also enabled the distinction between tumor signals and vascular signals.
